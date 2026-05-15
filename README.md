@@ -35,20 +35,16 @@ The application follows a modern full-stack architecture:
 git clone https://github.com/yourusername/github-issue-agent.git
 cd github-issue-agent
 
-# Install Frontend Deps
 npm install
 
-# Install Backend Deps
 cd backend
 pip install -r requirements.txt
 ```
 
 ### 2. Run the Application
 ```bash
-# Start Backend (from backend directory)
 python app.py
 
-# Start Frontend (from root directory)
 npm run dev
 ```
 
