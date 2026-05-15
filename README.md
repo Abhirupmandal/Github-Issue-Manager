@@ -43,17 +43,7 @@ cd backend
 pip install -r requirements.txt
 ```
 
-### 2. Environment Variables
-Create a `.env` file in the `backend` directory:
-```env
-GITHUB_CLIENT_ID=your_client_id
-GITHUB_CLIENT_SECRET=your_client_secret
-GEMINI_API_KEY=your_gemini_api_key
-SECRET_KEY=your_secret_key
-DATABASE_URL=sqlite:///issue_agent.db
-```
-
-### 3. Run the Application
+### 2. Run the Application
 ```bash
 # Start Backend (from backend directory)
 python app.py
