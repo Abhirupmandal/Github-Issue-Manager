@@ -2,7 +2,6 @@
 
 IssueAgent is a sophisticated full-stack AI agent designed to automatically triage, analyze, and manage GitHub issues. Powered by **Gemini 3.0 Flash Lite**, it provides real-time insights, natural language command execution, and autonomous issue management.
 
-![Dashboard Preview](https://via.placeholder.com/1200x600/0a0c10/58a6ff?text=IssueAgent+Dashboard+Preview)
 
 ## Features
 
