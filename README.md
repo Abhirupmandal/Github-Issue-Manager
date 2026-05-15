@@ -48,12 +48,5 @@ python app.py
 npm run dev
 ```
 
-## 🌐 Deployment
-
-- **Frontend**: Optimized for **Vercel**.
-- **Backend**: Optimized for **Render** (via Gunicorn).
-
-For detailed instructions, see [DEPLOYMENT.md](./DEPLOYMENT.md).
-
 ## 📄 License
 MIT License - Copyright (c) 2025 Abhirup Mandal
